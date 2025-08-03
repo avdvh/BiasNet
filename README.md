@@ -1,1 +1,1 @@
-# DefectDetectNet
+# BiasNet
