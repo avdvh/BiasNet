@@ -5,6 +5,10 @@ BiasNet is a comprehensive, end-to-end data analysis tool designed to uncover hi
 
 The application leverages a suite of unsupervised machine learning algorithms to segment a population into naturally occurring groups. By analyzing the demographic composition and characteristics of these discovered clusters, the tool quantifies potential biases. The entire workflow is encapsulated in an interactive web interface, and the final output is a detailed, multi-page PDF report that includes an AI-generated executive summary, detailed cluster profiles, fairness metrics, and rich visualizations.
 
+
+**Try it live**: [Click Here](https://huggingface.co/spaces/avdvh/BiasNet)
+
+
 ---
 
 ## Table of Contents
